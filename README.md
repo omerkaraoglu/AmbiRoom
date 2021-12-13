@@ -12,3 +12,5 @@ IMPORTANT
 - Change the dimensions in the screen.py file to fit your monitor if necessary, default is 1080x1920 pixels (FHD)
 - Find the IP addresses of your NodeMCU board (local IP, gateway IP, subnet mask, DNS)
 - Change the IP addresses in the .ino file with them
+- !!! Use IRLZ44 mosfets or TIP122 transistors to drive a common anode LED strip
+- 12V 5A power supply is recommended for a 5m strip
