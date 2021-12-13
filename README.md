@@ -1,1 +1,2 @@
-# ScreenAverageRGB
+# About Files
+
