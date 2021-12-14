@@ -1,5 +1,4 @@
 import socket
-import time
 
 clientSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 clientSocket.connect(("192.168.1.43", 80)) #change this with your board's local IP address, you don't have to change the port
